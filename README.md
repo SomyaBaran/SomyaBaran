@@ -1,1 +1,36 @@
-# README.md
+<div align="center">
+  <img height="380" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+</div>
+
+###
+
+<h1 align="center">Hi👋, I'm Somya Baranwal!</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/somya-baranwal-264b3b286/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Somya_Baran" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+<p align="left">A passionate coder from India 🇮🇳<br><br>- 📚 Currently learning MERN stack development (Node.js, Express, Databases)<br>- ⚡ In my free time I write whatever feels good.<br>- 📩 Reach me at somyabaranwal6664@gmail.com</p>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="24
