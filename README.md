@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">A passionate coder from India 🇮🇳<br><br>- 📚 Currently learning MERN stack development (Node.js, Express, Databases)<br>- ⚡ In my free time I write whatever feels good.<br>- 📩 Reach me at somyabaranwal6664@gmail.com</p>
+<p align="left">A passionate coder from India 🇮🇳<br><br>- 📚 Currently learning MERN stack development (Node.js, Express, Databases)<br>- ⚡ In my free time I like to write.<br>- 📩 Reach me at somyabaranwal6664@gmail.com</p>
 
 ###
 
